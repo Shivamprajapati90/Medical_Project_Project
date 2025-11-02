@@ -1,9 +1,9 @@
-🏥 Medical Record Dashboard (ASP.NET Core MVC + API + MSSQL)
+ Medical Record Dashboard (ASP.NET Core MVC + API + MSSQL)
 
 A complete Medical Record Management System built using ASP.NET Core MVC for the frontend, ASP.NET Core Web API for the backend, and Microsoft SQL Server (MSSQL) for the database.
 Users can register, log in, manage profiles, and upload/view medical files securely — all handled via APIs.
 
-🎯 Objective
+ Objective
 
 This project demonstrates a clean, full-stack .NET application architecture with:
 
@@ -17,7 +17,7 @@ Secure backend API integration
 
 MSSQL database with stored procedures
 
-🧱 Project Structure
+ Project Structure
 MedicalRecordSystem/
 │
 ├── Frontend/                     # ASP.NET Core MVC Application
@@ -41,8 +41,8 @@ MedicalRecordSystem/
 │   └── MedicalDB_Script.sql
 │
 └── README.md
-⚙️ Tech Stack
-🖥️ Frontend
+ Tech Stack
+ Frontend
 
 ASP.NET Core MVC
 
@@ -52,7 +52,7 @@ jQuery + AJAX for API calls
 
 Session-based Authentication
 
-🧠 Backend
+Backend
 
 ASP.NET Core Web API
 
@@ -62,8 +62,8 @@ ADO.NET with Stored Procedures
 
 File handling in wwwroot/uploads/
 
-💡 Features
-👤 User Authentication
+ Features
+ User Authentication
 
 Sign Up & Login with:
 
@@ -77,7 +77,7 @@ Phone Number
 
 Password
 
-🧾 Profile Management
+ Profile Management
 
 Display and edit user info
 
@@ -87,7 +87,7 @@ Update email, gender, and phone number
 
 Save profile updates via API
 
-📁 Medical File Upload
+Medical File Upload
 
 File type options:
 
@@ -107,10 +107,6 @@ Upload PDF or image files
 
 Preview uploaded files
 
-View in new tab or modal
+View in new Poppo tab or modal
 
 Delete files via API
-
-Do u need All files Delete the u can 
-
-login to forget password
